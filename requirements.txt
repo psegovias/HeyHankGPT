@@ -1,3 +1,4 @@
-openai==0.10.5
-speechrecognition==3.8.1
-pyttsx3==2.90
+openai
+requests
+playsound
+speechrecognition
